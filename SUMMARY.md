@@ -4,7 +4,7 @@
 
 ## Data itself
 
-* [First page](data-itself/first-page.md)
+* [Data](data-itself/first-page.md)
 
 ## Data Pre-processing
 
