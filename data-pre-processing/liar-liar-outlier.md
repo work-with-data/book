@@ -1,7 +1,7 @@
 ---
 description: >-
   I'm not teasing you, I'm teasing the people who thoughtlessly drop out data
-  points.
+  points out of their datasets.
 ---
 
 # Liar - liar - outlier!
