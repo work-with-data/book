@@ -4,7 +4,7 @@
 
 ## Data itself
 
-* [First page](data-and-its-normalisation/first-page.md)
+* [First page](data-itself/first-page.md)
 
 ## Data Pre-processing
 
