@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Preface](README.md)
-* [Introduction](introduction.md)
+* [Next](next/README.md)
+  * [Plus-plus](next/plus-plus.md)
+* [Introduction](introduction/README.md)
+  * [another subpage](introduction/another-subpage.md)
+  * [subpage](introduction/subpage.md)
 
 ## Data itself
 
